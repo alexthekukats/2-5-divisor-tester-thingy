@@ -1,0 +1,5 @@
+F:\Users\Alex\Documents\C# Progik\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Alex\Documents\C# Progik\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\bin\Debug\2-5 oszthatóság és statisztika.exe
+F:\Users\Alex\Documents\C# Progik\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\bin\Debug\2-5 oszthatóság és statisztika.pdb
+F:\Users\Alex\Documents\C# Progik\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\obj\Debug\2-5 oszthatóság és statisztika.exe
+F:\Users\Alex\Documents\C# Progik\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\obj\Debug\2-5 oszthatóság és statisztika.pdb
