@@ -3,3 +3,9 @@ F:\Users\Alex\Documents\C# Progik\2-5 oszthatóság és statisztika\2-5 oszthat�
 F:\Users\Alex\Documents\C# Progik\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\bin\Debug\2-5 oszthatóság és statisztika.pdb
 F:\Users\Alex\Documents\C# Progik\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\obj\Debug\2-5 oszthatóság és statisztika.exe
 F:\Users\Alex\Documents\C# Progik\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\obj\Debug\2-5 oszthatóság és statisztika.pdb
+D:\Alex\Dokkok\GitHub\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\bin\Debug\2-5 oszthatóság és statisztika.exe
+D:\Alex\Dokkok\GitHub\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\bin\Debug\2-5 oszthatóság és statisztika.pdb
+D:\Alex\Dokkok\GitHub\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\obj\Debug\2-5 oszthatóság és statisztika.csprojResolveAssemblyReference.cache
+D:\Alex\Dokkok\GitHub\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\obj\Debug\2-5 oszthatóság és statisztika.csproj.CoreCompileInputs.cache
+D:\Alex\Dokkok\GitHub\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\obj\Debug\2-5 oszthatóság és statisztika.exe
+D:\Alex\Dokkok\GitHub\2-5 oszthatóság és statisztika\2-5 oszthatóság és statisztika\obj\Debug\2-5 oszthatóság és statisztika.pdb
